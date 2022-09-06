@@ -5,6 +5,10 @@ h1 {
     background-color: yellow;
 }
 
+.destacados {
+    color: gray;
+    font-style: 22;
+}
 
 h2 {
     color: blue;
